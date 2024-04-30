@@ -1,0 +1,2 @@
+# ShopSense
+Mini Project 
